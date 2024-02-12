@@ -12,7 +12,7 @@ For this project, the goal is to visualize stars and associated constellations i
 
 The data for the stars, their locations, their spectral types, and other information is found [here](https://github.com/astronexus/ATHYG-Database/tree/main/data/subsets). Data to link stars into constellations is found [here](https://github.com/Stellarium/stellarium/tree/master/skycultures/modern).
 
-Preprocessing for the data was done in R. You can access the R scripts [here](https://github.com/uic-evl/omicron-unity/releases/tag/v3.12.3). Generallu, the following processing was done:
+Preprocessing for the data was done in R. You can access the R scripts [here](https://github.com/halBRY/CS528-Docs/tree/main/DataPreprocessing). Generally, the following processing was done:
 * Drop stars without a spectral type, or (x,y,z) coordinate.
 * Calculate the (x,y,z) coordinate in "feet".
     * The (x,y,z) coords in the data are given in parsecs. If a parsec maps to one meter in Unity units, here the parsecs are treated as meters, and converted as such. 
