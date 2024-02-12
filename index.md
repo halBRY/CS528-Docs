@@ -19,7 +19,7 @@ Preprocessing for the data was done in R. You can access the R scripts [here](ht
 * Calculate a "luminance" of each star based on its apparent magnitude. 
 * Create a "constellations.txt" file that replaces the hip IDs in from Stellarium's constalltion data with the (x,y,z) coordinates.
 
-The processed data files are placed in the Unity project in the /Assets/Data folder. 
+The processed data files are placed in the Unity project in the `/Assets/Data` folder. 
 
 ## Unity Application
 
