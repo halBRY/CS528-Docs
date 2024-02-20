@@ -24,7 +24,7 @@ The processed data files are placed in the Unity project in the `/Assets/Data` f
 ## Unity Application
 
 The Unity application uses the CAVE2 simulator from the omicron-unity package. To run the application, you will need to use Unity version 2019.2.11f1. The GitHub repository should already contain the necessary packages (omicron-unity and Multiplayer HLAPI). If, when the project is opened, there are compiler errors, double check that Multiplayer HLAPI is installed by checking in the **Window > Package Manager**, and omicron-unity is present by checking for the drop-down at the top, shown below: 
-![Omicron drop-down indicated by a red square](omicron-check.png)
+![Omicron drop-down indicated by a red square](omicron_check.png)
 
 To run, you will need to perform the following steps:
 1. Clone the code in the CS528-Project repository
