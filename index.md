@@ -1,6 +1,6 @@
 # Immersive Stars and Skycultures
 
-Project by Hal Brynteson. 
+Project by Hal Brynteson. Click the image below to view the demo video. 
 
 [![Watch the video](app_1.png)](https://youtu.be/cEnsa4K9JDg)
 
