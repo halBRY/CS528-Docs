@@ -14,3 +14,5 @@ The constellation meshes are a lot smaller than the star mesh, rarely having ove
 The app was developed primarily on a Windows 10 Desktop with an NVIDIA 980 card. On this machine, the average FPS was between 70-100. 
 
 In the testing phase on the CAVE2, the average FPS ranged between 40-50 FPS. 
+
+[App Features](app_usage.md) • [Data, Processing, and Sources](data.md) • [Code](code_and_build_instructions.md) • [Development Details](dev_details.md) • [Optimization Details](optimizations.md)
