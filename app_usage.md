@@ -26,7 +26,7 @@ The Scale mode allows the user to change how many parsecs map to one foot of phy
 This mode highlights a specific constellation in the visualized set by brightening the lines, as well as providing an information panel with the name of the constellation. 
 * Left/Z : Decrement highlighted constellation number
 * Right/X: Increment highlighted constellation number
-* L2/Point-and-Click: Drag highligh panel
+* L2/Point-and-Click: Drag highlight panel
 
 ![The Constellation Highlight for Virgo](app_4_highlight.png)
 
