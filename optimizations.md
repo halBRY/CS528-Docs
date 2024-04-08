@@ -9,3 +9,8 @@ With this calculation, I can update the scale and time uniforms when needed, wit
 
 ## Constellations 
 The constellation meshes are a lot smaller than the star mesh, rarely having over 1000 point. So, performance optimizations are less crucial. Thus, clearing and redrawing the mesh buffer to update colors or lines for constellations is a common task, with little observed performance cost. Still, the same ideas as with the stars applies, where position and velocity are sent as static vertex data updated by uniforms, and all of the constellation lines are stored within a single Mesh. For this, I take advantage of the alternating pattern of a the OpenGL style "Lines" topology draw call, where each pair of vertices forms their own, discontinous line. This works well with the format of the Stellarium dataset. 
+
+## Stats
+The app was developed primarily on a Windows 10 Desktop with an NVIDIA 980 card. On this machine, the average FPS was between 70-100. 
+
+In the testing phase on the CAVE2, the average FPS ranged between 40-50 FPS. 
