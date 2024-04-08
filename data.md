@@ -7,7 +7,7 @@ Constellation shapes and skycultures are from [Stellarium](https://github.com/St
 
 Exoplanet data was taken from [NASA's Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS)
 
-## Processing 
+## Pre-Processing 
 Preprocessing for the data was done in R. You can access the R scripts [here](https://github.com/halBRY/CS528-Docs/tree/main/DataPreprocessing). Generally, the following processing was done:
 * Remove unnessecary rows so that only (hip, dist, absmag, mag, x0, y0, z0, spect, vx, vy, vz) are used. 
 * Drop stars without a spectral type, (x,y,z) coordinate, or (vx,vy,vz), as these values are necessary for the visualization
