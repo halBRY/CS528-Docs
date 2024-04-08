@@ -2,7 +2,7 @@
 
 Project by Hal Brynteson. 
 
-<video src="cs528_Project.mp4" width="1000" height="562" controls></video>
+[![Watch the video](app_1.png)](https://youtu.be/cEnsa4K9JDg)
 
 "Immersive Stars and Skycultures" for the CAVE2 is an astronomy visualization application that allows users to explore nearly 400,000 stars surrounding our solor system, as well as a select set of "skycultures", or, different groups of constellations seen in different historical and modern cultures.  
 
