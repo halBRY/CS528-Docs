@@ -8,21 +8,21 @@
 
 The first major control feature is the **Action Modes**. These modes alter the behavior of the d-pad on the CAVE2, or the ZXCV keys on desktop. 
 
-1. Time
+1. Time<br>
 The Time mode allows the user to either step forwards and backwards in time. 
 * Left/Z : Backwards 500 years
 * Right/X: Fowards 500 years
 * Up/C: Play steps in sequence in the direction last pressed
 * Down/V: Pause time series
 
-2. Scale
+2. Scale<br>
 The Scale mode allows the user to change how many parsecs map to one foot of physical space. 
 * Left/Z : Decrease parsec
 * Right/X: Increase parsec
 * Up/C: Switch between feet and parsecs for the "Distance from Sol" display units
 * Down/V: Reset scale to 1ft. = 1pc.
 
-3. Constellation Highlight
+3. Constellation Highlight<br>
 This mode highlights a specific constellation in the visualized set by brightening the lines, as well as providing an information panel with the name of the constellation. 
 * Left/Z : Decrement highlighted constellation number
 * Right/X: Increment highlighted constellation number
@@ -30,14 +30,14 @@ This mode highlights a specific constellation in the visualized set by brighteni
 
 ![The Constellation Highlight for Virgo](app_4_highlight.png)
 
-4. Big Dipper Spotlight
+4. Big Dipper Spotlight<br>
 The Big Dipper Spotlight focuses on the Big Dipper asterism, showing the different skycultures it appears in with some additional information and background. 
 * Up/C: Cycle through skycultures
 * Down/V: Jump to ideal viewing angle
 
 ![The Big Dipper Spotlight for the Korean skyculture](app_5_spotlight.png)
 
-5. Quick Actions
+5. Quick Actions<br>
 Quick Actions can be selected as the main control mode, or they can be accessed by holding the **L1/M** button. 
 * Left/Z : Toggle constellation lines
 * Right/X: Toggle GUI elements
