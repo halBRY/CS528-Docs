@@ -32,3 +32,6 @@ There are three main GameObjects that control the visualization.
 
 ## Shaders
 In `/Assets/Shaders`, the `PointCloudDisk.shader` shader contains the code to draw the stars. This shader program reads in the vertex data sent from the Mesh created in `PointCloudCustomVertData.cs`. There, it applies transoformations to get the stars in the right place, at the right scale, at the right time. These vertexes are passed to a geometry shader where a sphere is drawn at each point. Finally, the spheres are colored by either spectral type of exoplanet number, and are darkened the farther the camera is from their base point. 
+
+## UI Elements
+In In `/Assets/Textures`, there are several custom UI elements. There PNG textures were created in Clip Studio Paint. 
