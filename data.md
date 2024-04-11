@@ -44,7 +44,7 @@ There are several operations performed in the Unity application for data handlin
 
 4. Exoplanet colors
     * Stars without exoplanets in the archive are shown in dark gray. 
-    * The exoplanet numbers of stars that have them are shown with an increasingly bright color, with the maximum number, 6, shown in bright yellow. 
+    * The number of discovered exoplanets for each star is shown with an increasingly bright color, with the maximum number, 6, shown in bright yellow. 
 
 ![Exoplanet Color Scale](data_1_exo.png)
 
