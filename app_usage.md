@@ -4,6 +4,9 @@
 
 ## Basic Controls
 
+In the CAVE2: Open menu with "O" Button, close with "X" button. 
+On desktop: Open menu with right click, close with left click. 
+
 ![The Action Mode Menu](app_2_dpad.png)
 
 The first major control feature is the **Action Modes**. These modes alter the behavior of the d-pad on the CAVE2, or the ZXCV keys on desktop. 
@@ -26,7 +29,7 @@ The Scale mode allows the user to change how many parsecs map to one foot of phy
 This mode highlights a specific constellation in the visualized set by brightening the lines, as well as providing an information panel with the name of the constellation. 
 * Left/Z : Decrement highlighted constellation number
 * Right/X: Increment highlighted constellation number
-* L2/Point-and-Click: Drag highlight panel
+* X(CAVE2 Button 3)/Point-and-Click: Drag highlight panel
 
 ![The Constellation Highlight for Virgo](app_4_highlight.png)
 
